@@ -9,8 +9,9 @@
 **Atividade**: Lista XX - Nome da Lista
 
 ## Instruções 
-> 1. Sua implementação deve estar dentro da pasta src/**main**/java (não coloque detro da pasta src/**test**/java).
-> 2. A submissão **não deve ser feita após o prazo** (nem 1 minuto a mais)
+> 1. Sua implementação deve estar dentro da pasta src/**main**/java 
+> 2. Não modifique nenhum código dentro da pasta src/**test**/java).
+> 3. A submissão **não deve ser feita após o prazo** (nem 1 minuto a mais)
 
 ## Descrição da Atividade
 ### Questão 01
