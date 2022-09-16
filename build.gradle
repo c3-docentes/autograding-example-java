@@ -19,5 +19,4 @@ test {
 		junitXml.enabled = true
         html.enabled = true
     }
-
 }
