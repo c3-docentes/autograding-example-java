@@ -15,9 +15,4 @@ test {
 	testLogging {
 		events "passed", "skipped", "failed"
 	}
-	reports {
-		// junitXml.enabled = true
-        // html.enabled = true
-    }
-
 }
