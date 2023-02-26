@@ -16,7 +16,8 @@ test {
 		events "passed", "skipped", "failed"
 	}
 	reports {
-		junitXml.enabled = true
-        html.enabled = true
+		// junitXml.enabled = true
+        // html.enabled = true
     }
+
 }
